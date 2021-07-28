@@ -1,0 +1,13 @@
+F:\Workspace C#\SpeedLimit\SpeedLimit\bin\Debug\netcoreapp3.1\SpeedLimit.exe
+F:\Workspace C#\SpeedLimit\SpeedLimit\bin\Debug\netcoreapp3.1\SpeedLimit.deps.json
+F:\Workspace C#\SpeedLimit\SpeedLimit\bin\Debug\netcoreapp3.1\SpeedLimit.runtimeconfig.json
+F:\Workspace C#\SpeedLimit\SpeedLimit\bin\Debug\netcoreapp3.1\SpeedLimit.runtimeconfig.dev.json
+F:\Workspace C#\SpeedLimit\SpeedLimit\bin\Debug\netcoreapp3.1\SpeedLimit.dll
+F:\Workspace C#\SpeedLimit\SpeedLimit\bin\Debug\netcoreapp3.1\SpeedLimit.pdb
+F:\Workspace C#\SpeedLimit\SpeedLimit\obj\Debug\netcoreapp3.1\SpeedLimit.csproj.AssemblyReference.cache
+F:\Workspace C#\SpeedLimit\SpeedLimit\obj\Debug\netcoreapp3.1\SpeedLimit.AssemblyInfoInputs.cache
+F:\Workspace C#\SpeedLimit\SpeedLimit\obj\Debug\netcoreapp3.1\SpeedLimit.AssemblyInfo.cs
+F:\Workspace C#\SpeedLimit\SpeedLimit\obj\Debug\netcoreapp3.1\SpeedLimit.csproj.CoreCompileInputs.cache
+F:\Workspace C#\SpeedLimit\SpeedLimit\obj\Debug\netcoreapp3.1\SpeedLimit.dll
+F:\Workspace C#\SpeedLimit\SpeedLimit\obj\Debug\netcoreapp3.1\SpeedLimit.pdb
+F:\Workspace C#\SpeedLimit\SpeedLimit\obj\Debug\netcoreapp3.1\SpeedLimit.genruntimeconfig.cache
