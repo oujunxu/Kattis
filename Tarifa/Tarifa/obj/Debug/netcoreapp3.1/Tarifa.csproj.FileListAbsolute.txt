@@ -1,0 +1,13 @@
+F:\Workspace C#\Tarifa\Tarifa\bin\Debug\netcoreapp3.1\Tarifa.exe
+F:\Workspace C#\Tarifa\Tarifa\bin\Debug\netcoreapp3.1\Tarifa.deps.json
+F:\Workspace C#\Tarifa\Tarifa\bin\Debug\netcoreapp3.1\Tarifa.runtimeconfig.json
+F:\Workspace C#\Tarifa\Tarifa\bin\Debug\netcoreapp3.1\Tarifa.runtimeconfig.dev.json
+F:\Workspace C#\Tarifa\Tarifa\bin\Debug\netcoreapp3.1\Tarifa.dll
+F:\Workspace C#\Tarifa\Tarifa\bin\Debug\netcoreapp3.1\Tarifa.pdb
+F:\Workspace C#\Tarifa\Tarifa\obj\Debug\netcoreapp3.1\Tarifa.csproj.AssemblyReference.cache
+F:\Workspace C#\Tarifa\Tarifa\obj\Debug\netcoreapp3.1\Tarifa.AssemblyInfoInputs.cache
+F:\Workspace C#\Tarifa\Tarifa\obj\Debug\netcoreapp3.1\Tarifa.AssemblyInfo.cs
+F:\Workspace C#\Tarifa\Tarifa\obj\Debug\netcoreapp3.1\Tarifa.csproj.CoreCompileInputs.cache
+F:\Workspace C#\Tarifa\Tarifa\obj\Debug\netcoreapp3.1\Tarifa.dll
+F:\Workspace C#\Tarifa\Tarifa\obj\Debug\netcoreapp3.1\Tarifa.pdb
+F:\Workspace C#\Tarifa\Tarifa\obj\Debug\netcoreapp3.1\Tarifa.genruntimeconfig.cache
