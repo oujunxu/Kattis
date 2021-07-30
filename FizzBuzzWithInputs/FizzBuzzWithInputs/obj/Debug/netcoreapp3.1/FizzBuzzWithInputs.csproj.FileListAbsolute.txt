@@ -1,0 +1,13 @@
+F:\Workspace C#\FizzBuzzWithInputs\FizzBuzzWithInputs\bin\Debug\netcoreapp3.1\FizzBuzzWithInputs.exe
+F:\Workspace C#\FizzBuzzWithInputs\FizzBuzzWithInputs\bin\Debug\netcoreapp3.1\FizzBuzzWithInputs.deps.json
+F:\Workspace C#\FizzBuzzWithInputs\FizzBuzzWithInputs\bin\Debug\netcoreapp3.1\FizzBuzzWithInputs.runtimeconfig.json
+F:\Workspace C#\FizzBuzzWithInputs\FizzBuzzWithInputs\bin\Debug\netcoreapp3.1\FizzBuzzWithInputs.runtimeconfig.dev.json
+F:\Workspace C#\FizzBuzzWithInputs\FizzBuzzWithInputs\bin\Debug\netcoreapp3.1\FizzBuzzWithInputs.dll
+F:\Workspace C#\FizzBuzzWithInputs\FizzBuzzWithInputs\bin\Debug\netcoreapp3.1\FizzBuzzWithInputs.pdb
+F:\Workspace C#\FizzBuzzWithInputs\FizzBuzzWithInputs\obj\Debug\netcoreapp3.1\FizzBuzzWithInputs.csproj.AssemblyReference.cache
+F:\Workspace C#\FizzBuzzWithInputs\FizzBuzzWithInputs\obj\Debug\netcoreapp3.1\FizzBuzzWithInputs.AssemblyInfoInputs.cache
+F:\Workspace C#\FizzBuzzWithInputs\FizzBuzzWithInputs\obj\Debug\netcoreapp3.1\FizzBuzzWithInputs.AssemblyInfo.cs
+F:\Workspace C#\FizzBuzzWithInputs\FizzBuzzWithInputs\obj\Debug\netcoreapp3.1\FizzBuzzWithInputs.csproj.CoreCompileInputs.cache
+F:\Workspace C#\FizzBuzzWithInputs\FizzBuzzWithInputs\obj\Debug\netcoreapp3.1\FizzBuzzWithInputs.dll
+F:\Workspace C#\FizzBuzzWithInputs\FizzBuzzWithInputs\obj\Debug\netcoreapp3.1\FizzBuzzWithInputs.pdb
+F:\Workspace C#\FizzBuzzWithInputs\FizzBuzzWithInputs\obj\Debug\netcoreapp3.1\FizzBuzzWithInputs.genruntimeconfig.cache
